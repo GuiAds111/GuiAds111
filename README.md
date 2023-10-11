@@ -1,4 +1,4 @@
-em-vindo ao meu perfil do GitHub! Sou um apaixonado por tecnologia e programação, e meu foco principal está em HTML, CSS e JavaScript. Aqui você encontrará projetos, contribuições e aprendizados relacionados a essas tecnologias que me fascinam.
+Bem-vindo ao meu perfil do GitHub! Sou um apaixonado por tecnologia e programação, e meu foco principal está em HTML, CSS e JavaScript. Aqui você encontrará projetos, contribuições e aprendizados relacionados a essas tecnologias que me fascinam.
 
 ## Sobre Mim
 
